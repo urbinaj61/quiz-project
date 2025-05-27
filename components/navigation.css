@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkgreen;
+  width: 100vw;
+  height: 10vw;
+  position: fixed;
+  bottom: 0;
+}
+
+ul {
+  display: flex;
+  gap: 40px;
+}
+
+li {
+  list-style-type: none;
+}
