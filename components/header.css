@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 10vh;
+  background-color: darkgreen;
+  align-items: center;
+  display: fixed;
+}
+
+h1 {
+  color: #d9e6d9;
+  font-size: 3rem;
+}
