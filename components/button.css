@@ -1,0 +1,12 @@
+.card__show_answer {
+  margin: 40px 0 0 0;
+  background-color: #92ec92;
+  border: none;
+  border-radius: 40px;
+  width: 160px;
+  height: 40px;
+  color: darkgreen;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+}

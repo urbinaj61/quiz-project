@@ -4,7 +4,7 @@ nav {
   align-items: center;
   background-color: darkgreen;
   width: 100vw;
-  height: 10vw;
+  height: 100px;
   position: fixed;
   bottom: 0;
 }
