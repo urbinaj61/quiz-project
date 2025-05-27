@@ -2,10 +2,11 @@ header {
   display: flex;
   justify-content: center;
   width: 100vw;
-  height: 10vw;
+  height: 100px;
   background-color: darkgreen;
   align-items: center;
-  display: fixed;
+  position: fixed;
+  top: 0;
 }
 
 h1 {
