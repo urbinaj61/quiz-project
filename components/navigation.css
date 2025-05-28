@@ -21,5 +21,14 @@ li {
 
 .icon {
   width: 30px;
-  height: 30px;
+  height: 25px;
+}
+
+a .icon {
+  fill: transparent;
+  transition: all 1s ease-in-out;
+}
+
+a .icon:hover {
+  fill: var(--light-text);
 }

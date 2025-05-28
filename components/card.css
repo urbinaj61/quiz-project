@@ -8,7 +8,7 @@
   background-color: var(--header-footer-bg);
   box-shadow: 4px 4.5px 2px 2px var(--card-shadow-border);
   position: relative;
-  z-index: -1;
+  /* z-index: -1; */
 }
 
 .card__question_heading {
