@@ -73,7 +73,7 @@ img {
 
 .settings {
   width: 100%;
-  margin: 100px 0 0 152px;
+  margin: 100px 0 0 125px;
 }
 
 .settings__title {
@@ -84,7 +84,7 @@ img {
 .settings__container {
   width: 100%;
   display: flex;
-  padding-top: 30px;
+  padding-top: 10px;
 }
 
 .settings__dark-mode-title {
