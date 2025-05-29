@@ -32,3 +32,7 @@ a .icon {
 a .icon:hover {
   fill: var(--light-text);
 }
+
+a.current .icon {
+  fill: var(--light-text);
+}

@@ -31,13 +31,13 @@ img {
 }
 
 .about-me__title {
-  padding: 10px 0 20px 80px;
+  padding: 10px 0 10px 80px;
   font-size: 1.6rem;
   color: var(--profile-text);
 }
 
 .about-me__summary {
-  padding: 10px 50px 20px 80px;
+  padding: 10px 50px 10px 80px;
   font-size: 1.4rem;
   color: var(--profile-text);
 }
@@ -73,7 +73,7 @@ img {
 
 .settings {
   width: 100%;
-  margin: 100px 0 0 125px;
+  margin: 40px 0 0 125px;
 }
 
 .settings__title {
