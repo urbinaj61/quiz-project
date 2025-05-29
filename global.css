@@ -35,7 +35,10 @@ body:has(#switch:checked) {
 main {
   width: 100vw;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
   padding: 110px 0;
+  gap: 30px;
 }
